@@ -1,0 +1,25 @@
+html, body {
+  width: 100%;
+  height: 80%;
+}
+
+.text-on-image {
+  font-size: 22px;
+  font-size: 15px; 
+}
+
+.background{
+  background-image: url("images/background.jpeg"); /* setting a background image*/
+margin: 20;
+  
+  height: 80%;
+  width: 100%;
+}
+
+.fine-font {
+  font-size: 12px;
+  font-family: Papyrus, fantasy;
+  font-weight: bolder;
+}
+
+
